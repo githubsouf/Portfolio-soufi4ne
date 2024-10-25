@@ -127,7 +127,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Web Development Intern",
+    title: "Software enginner Intern",
     company_name: "NOVEC Technopolis",
     icon: novec, // Replace with NOVEC logo if available
     iconBg: "#383E56",
@@ -145,7 +145,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "2021 - Present",
     points: [
-      "Developed and deployed scalable web applications using Vue.js, Laravel, and PostgreSQL.",
+      "Developed and deployed scalable web applications using ASPNET, Wordpress, Shopify, Vue.js, Laravel, and PostgreSQL.",
       "Created web-based medical management systems using ASP.NET and Angular.",
       "Implemented data scraping projects using Python, Selenium, and pandas.",
     ],
