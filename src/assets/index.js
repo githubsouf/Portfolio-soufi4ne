@@ -1,14 +1,18 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
-import ensa from "./ensa.png"
-
+import ensa from "./ensa.png";
+import kids from "./kids.png";
+import medical from "./medical.png";
+import scrap from "./image.png"
+import chouaib from "./chouaib.png"
+import sbaytri from "./sbaytri.png"
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import kenza from "./kenza.png"
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -35,6 +39,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  sbaytri,
+  kenza,
   logo,
   backend,
   ensa,
@@ -43,6 +49,7 @@ export {
   creator,
   mobile,
   web,
+  chouaib,
   github,
   menu,
   close,
@@ -50,6 +57,9 @@ export {
   docker,
   figma,
   git,
+  kids,
+  medical,
+  scrap,
   html,
   javascript,
   mongodb,

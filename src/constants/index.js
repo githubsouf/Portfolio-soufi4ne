@@ -5,9 +5,15 @@ import {
   web,
   novec,
   ensa,
+  kids,
+  medical,
+  scrap,
   javascript,
   typescript,
   html,
+  kenza,
+  chouaib,
+  sbaytri,
   css,
   reactjs,
   redux,
@@ -149,29 +155,30 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Working with Soufiane feels like he's been in the project for years. He is truly a hardworking genius.",
+    name: "Eladraoui Chouaib",
+    designation: "Engineer",
+    company: "Novec",
+    image: chouaib,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "He is a very good problem solver and his thoughts are always creative.",
+    name: "Sbaytri Youssef",
+    designation: "Professor",
+    company: "ENSA Tanger",
+    image: sbaytri,
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Soufiane has been an outstanding project partner, showing deep motivation, perseverance, and creativity in problem-solving. His innovative approach and dedication have significantly impacted our project's success.",
+    name: "Abou-El-Kacem Kenza",
+    designation: "Project Partner",
+    company: "ENSAT",
+    image: kenza,
   },
 ];
+
 
 const projects = [
   {
@@ -192,8 +199,8 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: carrent, // Replace with appropriate project image
-    source_code_link: "https://github.com/", // Update with project repo link
+    image: medical, // Replace with appropriate project image
+    source_code_link: "https://github.com/githubsouf", // Update with project repo link
   },
   {
     name: "Child Activity Management Platform",
@@ -213,8 +220,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide, // Replace with appropriate project image
-    source_code_link: "https://github.com/", // Update with project repo link
+    image: kids, // Replace with appropriate project image
+    source_code_link: "https://github.com/githubsouf", // Update with project repo link
   },
   {
     name: "YouTube Data Scraper & Analyzer",
@@ -234,8 +241,8 @@ const projects = [
         color: "red-text-gradient",
       },
     ],
-    image: jobit, // Replace with appropriate project image
-    source_code_link: "https://github.com/", // Update with project repo link
+    image: scrap, // Replace with appropriate project image
+    source_code_link: "https://github.com/githubsouf", // Update with project repo link
   },
 ];
 const studies = [
