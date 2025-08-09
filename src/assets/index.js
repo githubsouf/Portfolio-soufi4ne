@@ -29,11 +29,14 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import novec from "./novec.png"
+import polytech from "./polytech.png"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import znakiorganization from "./znakiorganization.png";
+import mulay from "./mulay.png";
+import gmi from "./gmi.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -42,9 +45,13 @@ export {
   sbaytri,
   kenza,
   logo,
+  gmi,
   backend,
   ensa,
   novec,
+  polytech,
+  mulay,
+  znakiorganization,
   dotnet,
   creator,
   mobile,

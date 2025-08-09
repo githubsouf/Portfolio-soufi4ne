@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl mt-2 text-white-100">
             Name it, I'll code it! <br className="sm:block hidden" />
-            Software Engineer & Full-Stack Developer
+            Software Engineer 
           </p>
         </div>
       </div>

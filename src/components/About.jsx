@@ -46,14 +46,7 @@ const About = () => {
       <motion.p
   variants={fadeIn("", "", 0.1, 1)}
   className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
->
-  I'm a skilled software engineer with extensive experience in TypeScript, 
-  JavaScript, and a variety of frameworks like React, ASP.NET, and Vue.js. I 
-  excel in developing web and mobile applications, implementing backend 
-  solutions, and working closely with cross-functional teams to create efficient, 
-  scalable, and user-friendly software. My expertise includes full-stack 
-  development, cloud-based solutions, and the ability to manage complex projects 
-  using Agile methodologies. Let's work together to turn your ideas into reality!
+>Skilled software engineer specializing in web development, backend systems, and cloud solutions. Adept at building scalable, user-friendly applications, integrating complex systems, and collaborating in agile teams. Passionate about turning ideas into impactful, real-world solutions.
 </motion.p>
 
 

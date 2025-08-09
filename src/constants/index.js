@@ -4,13 +4,17 @@ import {
   creator,
   web,
   novec,
+  polytech,
   ensa,
   kids,
   medical,
   scrap,
   javascript,
+  gmi,
+  znakiorganization,
   typescript,
   html,
+  mulay,
   kenza,
   chouaib,
   sbaytri,
@@ -126,23 +130,25 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "Software enginner Intern",
-    company_name: "NOVEC Technopolis",
-    icon: novec, // Replace with NOVEC logo if available
-    iconBg: "#383E56",
-    date: "June 2024 - August 2024",
+    {
+    title: "Software Development Engineer",
+    company_name: "GMI - Global Market Innovators",
+    icon: gmi, // Replace with GMI logo asset if available
+    iconBg: "#FFFFFF",
+    date: "June 2025 - Present",
     points: [
-      "Developed complex dashboards using ASP.NET and Angular.",
-      "Worked on backend integration with SQL Server and applied Agile methodologies.",
-      "Collaborated with the engineering team to deploy solutions in a Scrum environment.",
+      "Maintaining and enhancing enterprise-scale applications for high-profile global clients.",
+      "Adding new features and optimizing existing systems to improve performance, reliability, and user experience.",
+      "Integrating and managing multiple payment gateways including Adyen, PayPal, and Stripe.",
+      "Working on Salesforce, Shopify fulfillment, and Intershop solutions to streamline e-commerce operations.",
+      "Collaborating with international teams to deliver scalable, secure, and business-critical solutions."
     ],
   },
   {
-    title: "Freelance Developer",
-    company_name: "Various Clients",
-    icon: backend, // Replace with appropriate icon or logo
-    iconBg: "#383E56",
+    title: "Freelance IT Manager",
+    company_name: "Znaki Organization",
+    icon: znakiorganization, // Replace with appropriate icon or logo
+    iconBg: "#00000",
     date: "2021 - Present",
     points: [
       "Developed and deployed scalable web applications using ASPNET, Wordpress, Shopify, Vue.js, Laravel, and PostgreSQL.",
@@ -150,6 +156,19 @@ const experiences = [
       "Implemented data scraping projects using Python, Selenium, and pandas.",
     ],
   },
+  {
+    title: "Software enginner Intern",
+    company_name: "NOVEC Technopolis",
+    icon: novec, // Replace with NOVEC logo if available
+    iconBg: "#FFFFFF",
+    date: "June 2024 - August 2024",
+    points: [
+      "Developed complex dashboards using ASP.NET and Angular.",
+      "Worked on backend integration with SQL Server and applied Agile methodologies.",
+      "Collaborated with the engineering team to deploy solutions in a Scrum environment.",
+    ],
+  },
+  
 ];
 
 const testimonials = [
@@ -247,11 +266,21 @@ const projects = [
 ];
 const studies = [
   {
+    title: "Engineering Student, Quality • Innovation • Reliability in Computer Science",
+    institution_name: "Polytechnic Engineering School, University of Angers",
+    icon: polytech, // Replace with the ENSA logo if available
+    iconBg: "#FFFFFF",
+    date: "2025 - Present",
+    points: [
+      "Pursuing a degree in Quality • Innovation • Reliability in Computer Science.",
+    ],
+  },
+  {
     title: "Engineering Student, Computer Science",
     institution_name: "National School of Applied Sciences, Tangier",
     icon: ensa, // Replace with the ENSA logo if available
-    iconBg: "#383E56",
-    date: "2021 - Present",
+    iconBg: "#FFFFFF",
+    date: "2021 - 2025",
     points: [
       "Pursuing a degree in Computer Science and Engineering.",
       "Worked on various projects involving software development and system integration.",
@@ -260,8 +289,8 @@ const studies = [
   {
     title: "Baccalaureate, Mathematical Sciences",
     institution_name: "Lycée Moulay Youssef",
-    icon: backend, 
-    iconBg: "#383E56",
+    icon: mulay, 
+    iconBg: "#FFFFFF",
     date: "June 2020",
     points: [
       "Achieved a Baccalaureate with a specialization in Mathematical Sciences.",
